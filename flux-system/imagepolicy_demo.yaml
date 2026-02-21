@@ -7,5 +7,4 @@ spec:
   imageRepositoryRef:
     name: demo
   policy:
-    alphabetical:
-      order: desc
+    regex: '^[0-9a-f]{7,40}$'
