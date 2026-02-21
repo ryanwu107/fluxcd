@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: demo
-          image: ryanwu8/demo
+          image: ryanwu8/demo:d1998e5954d3d4ee923eb730274b1010e85b028a
           ports:
             - containerPort: 8089
 ---
