@@ -4,5 +4,5 @@ metadata:
   name: demo
   namespace: flux-system
 spec:
-  image: docker.io/ryanwu107/demo
+  image: docker.io/ryanwu8/demo
   interval: 1m
