@@ -10,4 +10,4 @@ spec:
     #alphabetical:
     # order: asc
     semver:
-      range: 1.x
+      range: '>1.0'
