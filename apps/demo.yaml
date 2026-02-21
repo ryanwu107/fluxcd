@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: demo
-          image: docker.io/ryanwu8/demo:1.0.22 # {"$imagepolicy": "flux-system:demo"}
+          image: docker.io/ryanwu8/demo:1.0.23 # {"$imagepolicy": "flux-system:demo"}
           ports:
             - containerPort: 8089
 ---
