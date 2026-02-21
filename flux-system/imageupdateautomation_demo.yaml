@@ -14,8 +14,8 @@ spec:
         branch: main
     commit:
       author:
-        name: ryanwu
-        email: ryan.wu@nutanix.com
+        name: flux-bot
+        email: flux-bot@nutanix.com
     push:
       branch: main
   update:
