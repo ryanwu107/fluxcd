@@ -7,4 +7,4 @@ spec:
   imageRepositoryRef:
     name: demo
   policy:
-    regex: '^[0-9a-f]{7,40}$'
+    latest: {}
