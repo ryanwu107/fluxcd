@@ -7,4 +7,5 @@ spec:
   imageRepositoryRef:
     name: demo
   policy:
-    latest: {}
+    alphabetical:
+      order: asc
