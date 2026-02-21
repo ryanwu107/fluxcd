@@ -20,6 +20,3 @@ spec:
       branch: main
   update:
     strategy: Setters
-    path: ./apps
-    #path: ./apps/demo.yaml
-    #regex: 'image: ryanwu8/demo:.*'
