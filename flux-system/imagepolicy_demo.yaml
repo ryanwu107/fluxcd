@@ -8,4 +8,4 @@ spec:
     name: demo
   policy:
     alphabetical:
-      order: asc
+      order: desc
